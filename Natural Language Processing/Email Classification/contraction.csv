@@ -1,0 +1,301 @@
+,constrain,meaning
+0,1,one
+1,2,two
+2,3,three
+3,4,four
+4,5,five
+5,6,six
+6,7,seven
+7,8,eight
+8,9,nine
+9,10,ten
+10,'aight,alright
+11,ain't,are not
+12,amn't,am not
+13,aren't,are not
+14,can't,cannot
+15,b,be
+16,'cause,because
+17,could've,could have
+18,couldn't,could not
+19,couldn't've,could not have
+20,daren't,dare not
+21,daresn't,dare not
+22,dasn't,dare not
+23,didn't,did not
+24,doesn't,does not
+25,don't,do not
+26,d'ye,do you
+27,e'er,ever
+28,everybody's,everybody is
+29,everyone's,everyone is
+30,finna,fixing to
+31,g'day,good day
+32,gd,good
+33,gimme,give me
+34,giv'n,given
+35,gonna,going to
+36,gon't,go not
+37,gotta,got to
+38,gr8,great
+39,hadn't,had not
+40,had've,had have
+41,hasn't,has not
+42,haven't,have not
+43,he'd,he had
+44,he'll,he shall
+45,he's,he has
+46,he've,he have
+47,how'd,how did
+48,howdy,how do you do
+49,how'll,how will
+50,how're,how are
+51,how's,how has
+52,i'd,I had
+53,i'd've,I would have
+54,i'll,I shall
+55,i'm,I am
+56,i'm'a,I am about to
+57,i'm'o,I am going to
+58,innit,is it not
+59,i've,I have
+60,isn't,is not
+61,it'd,it would
+62,it'll,it shall
+63,it's,it is
+64,k,ok
+65,let's,let us
+66,lol,laugh of lous
+67,ma'am,madam
+68,mayn't,may not
+69,may've,may have
+70,methinks,me thinks
+71,mightn't,might not
+72,might've,might have
+73,mustn't,must not
+74,mustn't've,must not have
+75,must've,must have
+76,needn't,need not
+77,ne'er,never
+78,o'clock,of the clock
+79,o'er,over
+80,ol',old
+81,oughtn't,ought not
+82,'s,is
+83,sch,school
+84,shalln't,shall not
+85,shan't,shall not
+86,she'd,she had
+87,she'll,she shall
+88,she's,she has
+89,shld,should
+90,should've,should have
+91,shouldn't,should not
+92,shouldn't've,should not have
+93,somebody's,somebody has
+94,someone's,someone has
+95,something's,something has
+96,so're,so are
+97,that'll,that shall
+98,that're,that are
+99,that'd,that would
+100,there'd,there had
+101,there'll,there shall
+102,there're,there are
+103,there's,there has
+104,these're,these are
+105,these've,these have
+106,they'd,they had
+107,they'll,they shall
+108,they're,they are
+109,they've,they have
+110,this's,this has
+111,those're,those are
+112,those've,those have
+113,'tis,it is
+114,to've,to have
+115,'twas,it was
+116,wanna,want to
+117,wasn't,was not
+118,we'd,we had
+119,we'd've,we would have
+120,we'll,we shall
+121,we're,we are
+122,we've,we have
+123,weren't,were not
+124,what'd,what did
+125,what'll,what shall
+126,what're,what are
+127,what's,what has
+128,what've,what have
+129,when's,when has
+130,where'd,where did
+131,where'll,where shall
+132,where're,where are
+133,where's,where has
+134,where've,where have
+135,which'd,which had
+136,which'll,which shall
+137,which're,which are
+138,which's,which has
+139,which've,which have
+140,who'd,who would
+141,who'd've,who would have
+142,who'll,who shall
+143,who're,who are
+144,who's,who has
+145,who've,who have
+146,why'd,why did
+147,why're,why are
+148,why's,why has
+149,won't,will not
+150,would've,would have
+151,wouldn't,would not
+152,wouldn't've,would not have
+153,y'all,you all
+154,y'all'd've,you all would have
+155,y'all're,you all are
+156,you'd,you had
+157,you'll,you shall
+158,you're,you are
+159,you've,you have
+160,aight,alright
+161,aint,are not
+162,amnt,am not
+163,arent,are not
+164,cant,cannot
+165,cause,because
+166,couldve,could have
+167,couldnt,could not
+168,couldntve,could not have
+169,darent,dare not
+170,daresnt,dare not
+171,dasnt,dare not
+172,didnt,did not
+173,doesnt,does not
+174,dont,do not
+175,eer,ever
+176,everybodys,everybody is
+177,everyones,everyone is
+178,gday,good day
+179,givn,given
+180,gont,go not
+181,hadnt,had not
+182,hadve,had have
+183,hasnt,has not
+184,havent,have not
+185,hed,he had
+186,hell,he shall
+187,hes,he has
+188,heve,he have
+189,howd,how did
+190,howll,how will
+191,howre,how are
+192,hows,how has
+193,idve,I would have
+194,ill,I shall
+195,im,I am
+196,ima,I am about to
+197,imo,I am going to
+198,ive,I have
+199,isnt,is not
+200,itd,it would
+201,itll,it shall
+202,its,it is
+203,lets,let us
+204,maam,madam
+205,maynt,may not
+206,mayve,may have
+207,mightnt,might not
+208,mightve,might have
+209,mustnt,must not
+210,mustntve,must not have
+211,mustve,must have
+212,neednt,need not
+213,neer,never
+214,oclock,of the clock
+215,oer,over
+216,ol,old
+217,oughtnt,ought not
+218,r,are
+219,secs,second
+220,shallnt,shall not
+221,shant,shall not
+222,shed,she had
+223,shell,she shall
+224,shes,she has
+225,shouldve,should have
+226,shouldnt,should not
+227,shouldntve,should not have
+228,somebodys,somebody has
+229,someones,someone has
+230,somethings,something has
+231,thatll,that shall
+232,thatre,that are
+233,thatd,that would
+234,thered,there had
+235,therell,there shall
+236,therere,there are
+237,theres,there has
+238,thesere,these are
+239,theseve,these have
+240,theyd,they had
+241,theyll,they shall
+242,theyre,they are
+243,theyve,they have
+244,thiss,this has
+245,thk,think
+246,thosere,those are
+247,thoseve,those have
+248,tis,it is
+249,tove,to have
+250,twas,it was
+252,wat,what
+253,wasnt,was not
+254,wed,we had
+255,wedve,we would have
+256,wen,when
+257,were,we are
+258,weve,we have
+259,werent,were not
+260,whatd,what did
+261,whatll,what shall
+262,whatre,what are
+263,whats,what has
+264,whatve,what have
+265,whens,when has
+266,whered,where did
+267,wherell,where shall
+268,wherere,where are
+269,wheres,where has
+270,whereve,where have
+271,whichd,which had
+272,whichll,which shall
+273,whichre,which are
+274,whichs,which has
+275,whichve,which have
+276,whod,who would
+277,whodve,who would have
+278,wholl,who shall
+279,whore,who are
+280,whos,who has
+281,whove,who have
+282,whyd,why did
+283,whyre,why are
+284,whys,why has
+285,wont,will not
+286,wot,what
+287,wouldve,would have
+288,wouldnt,would not
+289,wouldntve,would not have
+290,yall,you all
+291,yalldve,you all would have
+292,yallre,you all are
+293,youd,you had
+294,youll,you shall
+295,youre,you are
+296,youve,you have
+297,'til,until
+298,'re,are
+299,that's,that is
+300,thats,that is
